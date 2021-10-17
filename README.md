@@ -1,4 +1,4 @@
-### Welcome To Dirty Harry Github!
+### Welcome To Crypto Greek Cafe Github!
 
 ### This fork of YiiMP is designed to work with Crypto Greek Cafe Server Installer program.
 ### Trying to install this on a server not built by this installer will cause crashes !
